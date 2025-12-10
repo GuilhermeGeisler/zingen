@@ -12,6 +12,7 @@ section {
       text-transform: uppercase;
       color: var(--brand-color-primary);
     }
+
     & h2 {
       margin-top: .5rem;
     }
